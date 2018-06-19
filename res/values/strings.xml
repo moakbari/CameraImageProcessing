@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CameraImageProcessing</string>
+    <string name="menu_canny">Canny</string>
+    <string name="menu_face_detection">Face Detection</string>
+    <string name="menu_face_detection2">Face Detection Haar</string>
+    <string name="menu_switch_camera">Switch Camera</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

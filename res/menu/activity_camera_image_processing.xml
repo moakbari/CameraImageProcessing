@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/menu_face_detection"
+        android:showAsAction="collapseActionView"
+        android:title="@string/menu_face_detection"/>
+    
+    <item
+        android:id="@+id/menu_face_detection2"
+        android:showAsAction="collapseActionView"
+        android:title="@string/menu_face_detection2"/>
+
+    <item
+        android:id="@+id/menu_canny"
+        android:showAsAction="collapseActionView"
+        android:title="@string/menu_canny"/>
+    
+    <item
+        android:id="@+id/menu_switch_camera"
+        android:showAsAction="collapseActionView"
+        android:title="@string/menu_switch_camera"/>
+    
+
+</menu>
